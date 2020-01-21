@@ -8,7 +8,7 @@ Over the past four years, BuzzFeed News has maintained lists of sites that publi
 
 The `data/sites_2016.csv`, `data/sites_2017.csv`, and `data/sites_2018.csv` files contain lists of fake-news domains we included in our analyses for each of those years. 
 
-The `data/top_2018.csv` file contains information about the top fake news articles of 2018 (by Facebook engagement) published by our 2018 list of fake news sites. It contains the folowwing columns:
+The `data/top_2018.csv` file contains information about the top fake news articles of 2018 (by Facebook engagement) published by our 2018 list of fake news sites. It contains the following columns:
 
 - `title`: The title of the article.
 - `url`: The URL of the article.
